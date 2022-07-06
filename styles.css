@@ -1,0 +1,23 @@
+.deposit {
+  background-color: green;
+  border: 6px solid #0ff166;
+  color: white;
+  border-radius: 10px;
+  width: 150px;
+}
+
+.cash-back {
+  background-color: red;
+  border: 6px solid orange;
+  color: white;
+  border-radius: 10px;
+  width: 150px;
+}
+
+.header {
+  color: green;
+}
+
+.header-cashback {
+  color: red;
+}
