@@ -9,5 +9,7 @@
 <h2>
   Description: A simple React ATM exercise with two options, "Deposit" and "Cash Back." For a visual representation, the deposit button has green color, and the cashback button has red color. Added cash back validation so the user cannot withdraw more than the available balance.
 <img src="./atm.png" />
+<img src="./atm_deposit.png" />
+<img src="./atm_cashback.png" />
 </h2>
 
